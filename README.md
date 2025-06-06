@@ -1,4 +1,5 @@
 📚 Wikipedia Semantic Mapping using Sentence-BERT and UMAP Clustering
+
 This project explores the hidden semantic structure of Wikipedia topics using advanced NLP and unsupervised learning techniques. It retrieves topic descriptions from Wikipedia, generates dense vector embeddings using Sentence-BERT, and uses UMAP and DBSCAN to visualize and discover clusters of semantically related topics.
 
 🔍 Overview
