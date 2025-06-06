@@ -25,8 +25,10 @@ This project explores the hidden semantic structure of Wikipedia topics using ad
 7. numpy
 
 🎯 Motivation
+
 By combining sentence-level embeddings and topological structure, this project provides an intuitive map of how Wikipedia topics relate semantically. It demonstrates how modern NLP models can uncover rich latent structures in textual data.
 
 🤝 Contributions
+
 Contributions, issues, and improvements are welcome! Feel free to open a pull request or submit feedback.
 
